@@ -1,4 +1,4 @@
-<img src="EXODUS(1).png" with="100%">
+<img src="EXODUS (1).png" with="100%">
 
 <p>A Empresa Exodus é atuante no setor de informática e é especializada no desenvolvimento de softwares para empresas de pequeno e médio porte.</p>
 
